@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shikherr04
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Java
 - 📫 How to reach me discord Shikher#2339
 
 <!---
